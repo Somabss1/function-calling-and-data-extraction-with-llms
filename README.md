@@ -26,5 +26,5 @@ Example Applications:
 - Build an end-to-end application that processes customer service transcripts using LLMs.
 
 References: 
-https://www.deeplearning.ai/short-courses/function-calling-and-data-extraction-with-llms/
-https://nexusflow.ai/blogs/towards-reliable-agents-with-minimal-hallucination
+- https://www.deeplearning.ai/short-courses/function-calling-and-data-extraction-with-llms/
+- https://nexusflow.ai/blogs/towards-reliable-agents-with-minimal-hallucination
